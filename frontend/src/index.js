@@ -4,6 +4,7 @@ import './index.css';
 import './bootstrap-override.scss';
 import * as serviceWorker from './serviceWorker';
 import UserSignupPage from './pages/UserSignupPage';
+import './i18n';
 
 ReactDOM.render(
   <React.StrictMode>

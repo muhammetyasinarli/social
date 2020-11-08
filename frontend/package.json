@@ -8,9 +8,12 @@
     "@testing-library/user-event": "^7.2.1",
     "axios": "^0.20.0",
     "bootstrap": "^4.5.3",
+    "i18next": "^19.8.3",
+    "i18next-browser-languagedetector": "^6.0.1",
     "node-sass": "^4.14.1",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
+    "react-i18next": "^11.7.3",
     "react-scripts": "3.4.3"
   },
   "scripts": {
@@ -35,5 +38,5 @@
     ],
     "type": "module"
   },
-  "proxy": "http://172.21.192.1:8080"
+  "proxy": "http://localhost:8080"
 }
